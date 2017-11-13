@@ -1,0 +1,7 @@
+name: Pure Preview Content
+description: pure preview content module
+package: Custom
+type: module
+
+core: 8.x
+version: 8.x-1.x-dev
